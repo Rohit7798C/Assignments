@@ -1,4 +1,4 @@
-# Training Assignments
+# Training Assignments at GreekSoft
 1) Calculator
 2) Student Database 
 3) Multithreading
