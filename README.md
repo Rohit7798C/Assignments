@@ -10,5 +10,5 @@
 9) Issue - 10594 - A) Online Backup Issue.(Done)
                    B) Generic Backup Issue.(Done)
 10) Issue - 11195 - Traditional backup button needed to be disabled.(Done) 
-11) Issue - 10793 - SLBM trade
+11) Issue - 10793 - SLBM trade(done), also need to add more exchanges.
 12) Issue - 9336 - not yet started
